@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703052788 source:c:\users\yasmin sherif\desktop\c++ projects\student managment system\main.c
+	"Linked.h"
+
+1703051881 c:\users\yasmin sherif\desktop\c++ projects\student managment system\linked.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+
